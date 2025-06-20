@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.strong {
+    letter-spacing: 1em;
+    font-size: 20px;
+}
